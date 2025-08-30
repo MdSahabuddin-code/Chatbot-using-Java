@@ -34,5 +34,5 @@ If it doesn’t know the answer, it will open **Google Search** after a countdow
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your-username/java-swing-chatbot.git
+   git clone https://github.com/MdSahabuddin-code/Chatbot-using-Java/tree/main.git
    cd java-swing-chatbot
